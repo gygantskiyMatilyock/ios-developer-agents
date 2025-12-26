@@ -1,0 +1,16 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS generated files
+Icon?
+Thumbs.db
+ehthumbs.db
+desktop.ini
